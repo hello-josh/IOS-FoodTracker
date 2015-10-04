@@ -7,6 +7,7 @@ https://developer.apple.com/library/ios/referencelibrary/GettingStarted/Developi
 - [Connect the UI to Code](#connect-the-ui-to-code)
 - [Work with View Controllers](#work-with-view-controllers)
 - [Implement a Custom Control](#implement-a-custom-control)
+- [Define Your Data Model](#define-your-data-model)
 
 ## Build a Basic UI
 * [Lesson](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
@@ -43,4 +44,14 @@ In this lesson, you’ll continue to work on the UI for the meal scene in the Fo
 In this lesson, you’ll implement a rating control for the FoodTracker app. When you’re finished, your app will look something like this:
 
 ![App Screenshot](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Art/5_sim_finalUI_2x.png)
+
+## Define Your Data Model
+* [Lesson](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson6.html#//apple_ref/doc/uid/TP40015214-CH20-SW1)
+* [Branch](https://github.com/Trii/IOS-FoodTracker/tree/05-define-your-data-model)
+* [Diff](https://github.com/Trii/IOS-FoodTracker/pull/5/files)
+
+In this lesson, you’ll define and test a data model for the FoodTracker app. A data model represents the structure of information in an app.
+
+
+
 
