@@ -10,6 +10,7 @@ https://developer.apple.com/library/ios/referencelibrary/GettingStarted/Developi
 - [Define Your Data Model](#define-your-data-model)
 - [Create a Table View](#create-a-table-view)
 - [Implement Navigation](#implement-navigation)
+- [Implement Edit and Delete Behavior](#implement-edit-and-delete-behavior)
 
 ## Build a Basic UI
 * [Lesson](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
@@ -72,5 +73,14 @@ In this lesson, you create the main screen of the FoodTracker app. You’ll crea
 In this lesson, you use navigation controllers and segues to create the navigation flow of the FoodTracker app. At the end of the lesson, you’ll have a complete navigation scheme and interaction flow for the app. When you’re finished, your app will look something like this:
 
 ![Implement Navigation Screen Shot](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Art/8_sim_navbar_2x.png)
+
+## Implement Edit and Delete Behavior
+* [Lesson](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson9.html#//apple_ref/doc/uid/TP40015214-CH9-SW1)
+* [Branch](https://github.com/Trii/IOS-FoodTracker/tree/08-implement-edit-and-delete-behavior)
+* [Diff](https://github.com/Trii/IOS-FoodTracker/pull/8/files)
+
+In this lesson, you focus on adding behavior that allows the user to edit and delete meals in the FoodTracker app.
+
+
 
 
