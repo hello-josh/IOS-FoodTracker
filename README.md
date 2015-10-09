@@ -9,6 +9,7 @@ https://developer.apple.com/library/ios/referencelibrary/GettingStarted/Developi
 - [Implement a Custom Control](#implement-a-custom-control)
 - [Define Your Data Model](#define-your-data-model)
 - [Create a Table View](#create-a-table-view)
+- [Implement Navigation](#implement-navigation)
 
 ## Build a Basic UI
 * [Lesson](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
@@ -63,5 +64,13 @@ In this lesson, you create the main screen of the FoodTracker app. You’ll crea
 
 ![Section Screenshot](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Art/7_sim_tablecellUI_2x.png)
 
+## Implement Navigation
+* [Lesson](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson8.html#//apple_ref/doc/uid/TP40015214-CH16-SW1)
+* [Branch](https://github.com/Trii/IOS-FoodTracker/tree/07-implement-navigation)
+* [Diff](https://github.com/Trii/IOS-FoodTracker/pull/7/files)
+
+In this lesson, you use navigation controllers and segues to create the navigation flow of the FoodTracker app. At the end of the lesson, you’ll have a complete navigation scheme and interaction flow for the app. When you’re finished, your app will look something like this:
+
+![Implement Navigation Screen Shot](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Art/8_sim_navbar_2x.png)
 
 
