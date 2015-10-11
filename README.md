@@ -82,5 +82,12 @@ In this lesson, you use navigation controllers and segues to create the navigati
 In this lesson, you focus on adding behavior that allows the user to edit and delete meals in the FoodTracker app.
 
 
+## Persist Data
+* [Lesson](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson10.html#//apple_ref/doc/uid/TP40015214-CH14-SW1)
+* [Branch](https://github.com/Trii/IOS-FoodTracker/tree/09-persist-data)
+* [Diff](https://github.com/Trii/IOS-FoodTracker/pull/9/files)
+
+This lesson is focused on saving a meal list across FoodTracker app sessions. Data persistence is one of the most important and common problems in iOS app development. iOS has many persistent data storage solutions; in this lesson, you’ll use NSCoding as the data persistence mechanism in the FoodTracker app. NSCoding is a protocol that enables a lightweight solution for archiving objects and other structures. Archived objects can be stored on disk and retrieved at a later time.
+
 
 
