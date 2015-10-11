@@ -11,6 +11,7 @@ https://developer.apple.com/library/ios/referencelibrary/GettingStarted/Developi
 - [Create a Table View](#create-a-table-view)
 - [Implement Navigation](#implement-navigation)
 - [Implement Edit and Delete Behavior](#implement-edit-and-delete-behavior)
+- [Persist Data](#persist-data)
 
 ## Build a Basic UI
 * [Lesson](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
